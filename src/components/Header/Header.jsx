@@ -104,16 +104,16 @@ function Header() {
       <div className="menu d-none d-lg-block">
         <ul>
           <li>
-            <Link to="/" onClick={handleClick}>Menu</Link>
+            <Link to="/">Menu</Link>
           </li>
           <li>
-            <Link to="/location" onClick={handleClick}>Location</Link>
+            <Link to="/location">Location</Link>
           </li>
           <li>
-            <Link to="/about" onClick={handleClick}>About</Link>
+            <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/contact" onClick={handleClick}>Contact</Link>
+            <Link to="/contact">Contact</Link>
           </li>
         </ul>
       </div>
