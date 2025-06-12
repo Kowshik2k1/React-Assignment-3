@@ -1,0 +1,13 @@
+.card-body {
+  position: relative;
+
+  .add-cart {
+    margin-top: 45px;
+
+    button {
+      position: absolute;
+      bottom: 16px;
+      right: 16px;
+    }
+  }
+}
